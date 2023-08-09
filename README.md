@@ -32,4 +32,4 @@ Note: For Alchemy, just the key is sufficient (do not give the whole URL.)
 
 # Running the code
 1. Run the `Process` notebook to generate required files
-2. Run `ERC-20 Analytics`
+2. Run `ERC-20 Analytics` or `Check addresses for bytecode` as you see fit
